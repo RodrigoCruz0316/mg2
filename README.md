@@ -1,6 +1,6 @@
 # minigame 2
 ## Devlog
-Write your Devlog here.
+One issue I had when writing my code was that I would forget to add f towards the end of my code or I would forget a semi colon. At first I was confused why my code wasn't working but it would be due to me forgetting something each time whether it was forgetting to add one of those 2. For the if statements there was one moment I forget to put f and I didn't notice it at first making me confused why the game wouldn't load. When I see the line of code with sprite Renderer and new color what I think is happening is that it helps to change the shade of red.The r in the code stands for red and it is telling the game that when the player will interact with the object it will change the shade of red. For the period I think it tells the code to stop there to look at it for something. I assume just like for a sentence you use a period to end it, in code you use a period to tell the code to stop and examine it. Regarding the word new I think it means to change the property of something to make it different. In the code new is used with color which is what I think is making a new shade of red the more you interact with an object. (https://pearl-carp.itch.io/minigame-2)
 
 ## Open-Source Assets
 - Pixel art environment & character sprites: https://assetstore.unity.com/packages/2d/environments/pixel-art-top-down-basic-187605
